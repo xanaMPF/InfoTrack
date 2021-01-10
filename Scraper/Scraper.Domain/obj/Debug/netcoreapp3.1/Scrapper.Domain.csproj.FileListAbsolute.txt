@@ -1,0 +1,8 @@
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\obj\Debug\netcoreapp3.1\Scrapper.Domain.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\obj\Debug\netcoreapp3.1\Scrapper.Domain.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\bin\Debug\netcoreapp3.1\Scrapper.Domain.deps.json
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\bin\Debug\netcoreapp3.1\Scrapper.Domain.dll
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\bin\Debug\netcoreapp3.1\Scrapper.Domain.pdb
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\obj\Debug\netcoreapp3.1\Scrapper.Domain.dll
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\obj\Debug\netcoreapp3.1\Scrapper.Domain.pdb
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\obj\Debug\netcoreapp3.1\Scrapper.Domain.csproj.CoreCompileInputs.cache

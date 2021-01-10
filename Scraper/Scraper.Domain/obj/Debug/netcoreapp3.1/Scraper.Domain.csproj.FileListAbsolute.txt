@@ -1,0 +1,17 @@
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\bin\Debug\netcoreapp3.1\Scraper.Domain.deps.json
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\bin\Debug\netcoreapp3.1\Scraper.Domain.dll
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\bin\Debug\netcoreapp3.1\Scraper.Domain.pdb
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\obj\Debug\netcoreapp3.1\Scraper.Domain.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\obj\Debug\netcoreapp3.1\Scraper.Domain.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\obj\Debug\netcoreapp3.1\Scraper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\obj\Debug\netcoreapp3.1\Scraper.Domain.dll
+C:\Users\alexa\source\repos\Scrapper\Scrapper.Domain\obj\Debug\netcoreapp3.1\Scraper.Domain.pdb
+C:\Users\alexa\source\repos\Scraper\Scraper.Domain\bin\Debug\netcoreapp3.1\Scraper.Domain.deps.json
+C:\Users\alexa\source\repos\Scraper\Scraper.Domain\bin\Debug\netcoreapp3.1\Scraper.Domain.dll
+C:\Users\alexa\source\repos\Scraper\Scraper.Domain\bin\Debug\netcoreapp3.1\Scraper.Domain.pdb
+C:\Users\alexa\source\repos\Scraper\Scraper.Domain\obj\Debug\netcoreapp3.1\Scraper.Domain.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Scraper\Scraper.Domain\obj\Debug\netcoreapp3.1\Scraper.Domain.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Scraper\Scraper.Domain\obj\Debug\netcoreapp3.1\Scraper.Domain.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Scraper\Scraper.Domain\obj\Debug\netcoreapp3.1\Scraper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Scraper\Scraper.Domain\obj\Debug\netcoreapp3.1\Scraper.Domain.dll
+C:\Users\alexa\source\repos\Scraper\Scraper.Domain\obj\Debug\netcoreapp3.1\Scraper.Domain.pdb
