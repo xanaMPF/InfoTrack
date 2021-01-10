@@ -24,19 +24,19 @@ Some sample unit tests are included, please run the tests using the Visual Studi
 
 * **Alexandra Familiar** 
 
-##Improvements
+## Improvements
 
-Code
+# Code
     - different handling of error responses from the search engines (for instance, captcha) 
-	- the html sample in tests could be a global resource loaded by the test
-	- more unit tests to conver the database interactions and retrival of data
+    - the html sample in tests could be a global resource loaded by the test
+    - more unit tests to conver the database interactions and retrival of data
 	
-Functionality
-	- support to add more search engines by the user (the architecture is ready to support this)
+# Functionality
+    - support to add more search engines by the user (the architecture is ready to support this)
     - graph of the historical data
     - show the matching URLs in the ranking results
-	- store and display previously used keyword and URLs
-	- develop a queue system connected to a cron job to auto retrive the rankings for certain keyword/url pairs with a certain frequency
+    - store and display previously used keyword and URLs
+    - develop a queue system connected to a cron job to auto retrive the rankings for certain keyword/url pairs with a certain frequency
 		
 	
 	
